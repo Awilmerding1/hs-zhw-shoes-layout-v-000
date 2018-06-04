@@ -25,11 +25,12 @@
 /* Posititoning Classes */
 
 .col-1 {
-  width: ;
+  width: 33.333%;
+  float: left;
 }
 
 .col-2 {
-  width: ;
+  width: 66.666%;
 }
 
 .col-3 {
