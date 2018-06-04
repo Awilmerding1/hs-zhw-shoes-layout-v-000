@@ -26,6 +26,10 @@
   margin: 10px 0 10px;
 }
 
+.wrapper.shadow {
+  margin-bottom: 10px;
+}
+
 
 /* Posititoning Classes */
 
